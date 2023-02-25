@@ -1,5 +1,5 @@
 # operadores_aritmeticos
-programa para implentar los problemas aritméticos en Python
+programa para implentar los operadores aritméticos en Python
 
 ## analisis
 

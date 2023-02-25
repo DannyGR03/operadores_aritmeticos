@@ -1,18 +1,29 @@
-# Programa para implementar operadores aritméticos 
+# programa para implementar operadores aritméticos
+print("-----------------")
+print("------------OPERADORES ARITMETICOS--------")
+print("-----------------")
 
+#input
+x= int(input("Digite el valor de x= "))
+y= int(input("Digite el valor de y= "))
 
+# procesing
+s= x+y
+r= x-y
+m= x*y
+d= x/y
+mod= x%y
+de= x//y
+p= x**y
 
-
-# input
-x = int(input("digite el valor de x: "))
-y = int(input("digite el valor de y: "))
-
-
-s = x + y
-r = x - y
-m = x * y
-d = x / y
-mod = x % y
-de = x // y 
-p = x ** y
-
+# output
+print("-----------------")
+print("------------RESULTADOS--------")
+print("-----------------")
+print("Suma: " + str(s))
+print("Resta: " + str(r))
+print("Multiplicación: " + str(m))
+print("División: " + str(d))
+print("Modulo: " + str(mod))
+print("División parte entera: " + str(de))
+print("Potencia: " + str(p))
