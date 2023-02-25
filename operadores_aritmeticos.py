@@ -1,6 +1,6 @@
 # programa para implementar operadores aritméticos
 print("-----------------")
-print("------------OPERADORES ARITMETICOS--------")
+print("------------OPERADORES ARITMÉTICOS--------")
 print("-----------------")
 
 #input
